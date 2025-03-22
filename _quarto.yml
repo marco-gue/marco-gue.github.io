@@ -6,9 +6,14 @@ website:
   open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
   page-footer: "Made with ❤️ and Quarto"
   navbar:
+    title: Marco Guerra
     right:
-      - text: Home
-        href: index.qmd
+      - href: Talks.qmd
+        text: CV
+    tools:
+      - icon: github
+        href: https://github.com/marco-gue
+    
       
 format:
   html:

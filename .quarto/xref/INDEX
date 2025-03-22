@@ -13,5 +13,8 @@
   },
   "projects/index.qmd": {
     "index.html": "f9311a0b"
+  },
+  "Talks.qmd": {
+    "Talks.html": "ab9ce794"
   }
 }
