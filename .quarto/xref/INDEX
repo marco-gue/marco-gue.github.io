@@ -16,5 +16,8 @@
   },
   "Talks.qmd": {
     "Talks.html": "ab9ce794"
+  },
+  "blog/index.qmd": {
+    "index.html": "a5f216f4"
   }
 }

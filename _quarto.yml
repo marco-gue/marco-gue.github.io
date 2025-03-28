@@ -10,17 +10,14 @@ website:
     right:
       - href: Talks.qmd
         text: CV
-    tools:
+      - href: blog/index.qmd
+        text: Blog
       - icon: github
         href: https://github.com/marco-gue
     
       
 format:
   html:
-    backgroundcolor: rgba(255, 99, 71, 0.4)
-    fontcolor: "white"
-    linkcolor: "black"
-    mainfont: "sarif"
     fontsize: 20px
     theme: [cosmo, styles.scss]
 

@@ -3,11 +3,39 @@
 // Sass Variables
 // https://quarto.org/docs/output-formats/html-themes.html#sass-variables
 
+
+@import url('https://fonts.googleapis.com/css2?family=Winky+Sans:ital,wght@0,300..900;1,300..900&display=swap');
+
+
+$theme-lightgreen: #eeffee;
+$theme-green: darkgreen;
+$theme-black: black;
+
 /* Colors */
-$body-bg: #FFFFFF;
-$body-color: rgb(55, 58, 60);
-$link-color: rgb(39, 128, 227);
+$body-bg: $theme-lightgreen;
+$body-color: $theme-green;
+$link-color: $theme-black;
 
 /* Fonts */
-$font-family-sans-serif: "Source Sans Pro", -apple-system, "system-ui", "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+$font-family-sans-serif: "Winky Sans", sans-serif;
 $font-size-root: 17px;
+
+
+/*-- scss:rules --*/
+
+h1 {
+  color: black;
+}
+
+.navbar * {
+  color: black;
+}
+
+span.navbar-title {
+  color: black;
+  transition-duration: 0.1s;
+  &:hover {
+    color: grey;
+    transition-duration: 0.1s;
+  }
+}
