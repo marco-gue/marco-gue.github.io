@@ -2,26 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://marco-gue.github.io/Talks.html</loc>
-    <lastmod>2025-03-22T22:31:11.326Z</lastmod>
+    <lastmod>2025-03-29T02:47:27.585Z</lastmod>
   </url>
   <url>
     <loc>https://marco-gue.github.io/index.html</loc>
-    <lastmod>2025-03-22T22:31:09.834Z</lastmod>
+    <lastmod>2025-03-29T02:47:25.945Z</lastmod>
   </url>
   <url>
     <loc>https://marco-gue.github.io/blog/second-post/index.html</loc>
-    <lastmod>2025-03-22T22:31:08.615Z</lastmod>
+    <lastmod>2025-03-29T02:47:24.750Z</lastmod>
   </url>
   <url>
     <loc>https://marco-gue.github.io/blog/first-post/index.html</loc>
-    <lastmod>2025-03-22T22:31:08.024Z</lastmod>
+    <lastmod>2025-03-29T02:47:23.375Z</lastmod>
+  </url>
+  <url>
+    <loc>https://marco-gue.github.io/blog/index.html</loc>
+    <lastmod>2025-03-29T02:47:24.242Z</lastmod>
   </url>
   <url>
     <loc>https://marco-gue.github.io/blog/third-post/index.html</loc>
-    <lastmod>2025-03-22T22:31:09.304Z</lastmod>
+    <lastmod>2025-03-29T02:47:25.299Z</lastmod>
   </url>
   <url>
     <loc>https://marco-gue.github.io/projects/index.html</loc>
-    <lastmod>2025-03-22T22:31:10.755Z</lastmod>
+    <lastmod>2025-03-29T02:47:27.125Z</lastmod>
   </url>
 </urlset>
