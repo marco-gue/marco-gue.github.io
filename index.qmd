@@ -18,8 +18,10 @@ about: # https://quarto.org/docs/websites/website-about.html
 
 ## Education
 
-University of XYZ, City \| Location \| Sept 20XX - June 20XX
+Universidade Federal de Viçosa, Brasil \| Viçosa \| 2024 - 2025
+
+Universidad Nacional Agraria La Molina, Perú \| Lima \| 2015 - 2020
 
 ## Experience
 
-Workplace \| Job title \| April 20XX - present
+International Potato Center \| Job title \| April 20XX - present
